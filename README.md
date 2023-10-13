@@ -2,7 +2,11 @@
 
 Sou do Rio de Janeiro
 
-Estou cursando front-end no vai na web
+Tenho 44 anos.
+
+Estou cursando front-end no vai na web.
+
+
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=Louise&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
